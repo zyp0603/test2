@@ -1,0 +1,102 @@
+
+.swiper-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.swiper-slide{
+    background-image: url(../img/background.jpg);
+}
+
+.banner{
+    width: 100%;
+    display: block;
+    margin-bottom: 0.24rem;
+}
+
+.text1{
+    font-size: 0.42rem;
+    color: white;
+    text-shadow: 0 4px 2px rgba(12,3,6,0.29);
+}
+
+.text2{
+    font-size: 0.28rem;
+    color: white;
+    font-weight: bold;
+    margin: 0 0.1rem;
+}
+
+.xing{
+    width: 0.18rem;
+    height: 0.18rem;
+}
+
+.text{
+    margin-top: 0.26rem;
+}
+
+.f2{
+    padding: 0 0.7rem;
+    margin-top: 0.2rem;
+}
+
+.bg{
+    background: rgba(0,0,0,0.05);
+    padding-bottom: 0.2rem;
+}
+
+.box{
+    height: 0.64rem;
+    border-radius: 8px;
+    background: #8fcc4e;
+    font-size: 0.3rem;
+    color: white;
+    margin-bottom: 0.17rem;
+}
+
+.erweima1{
+    width: 2.92rem;
+    height: 2.92rem;
+}
+
+.text3{
+    font-size: 0.24rem;
+    color: white;
+    margin-top: 0.2rem;
+}
+
+.fixed1{
+    color: white;
+    position: fixed;
+    bottom: 0.46rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.text4{
+    font-size: 0.28rem;
+    color: white;
+    margin-top: 0.2rem;
+}
+
+.f1{
+    margin-top: 1.46rem;
+}
+
+.box1{
+    background: #42adff;
+}
+
+.text5{
+    font-size: 0.28rem;
+    color: white;
+    margin-bottom: 0.2rem;
+}
+
+.icon{
+    transform: rotate(180deg);
+}
+
+
+
